@@ -19,14 +19,14 @@
     "next-seo": "^4.28.1",
     "next-themes": "^0.0.15",
     "nprogress": "^0.2.0",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react": "18.1.0",
+    "react-dom": "18.1.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.0",
     "@testing-library/react": "^12.1.2",
     "@types/nprogress": "^0.2.0",
-    "@types/react": "^17.0.37",
+    "@types/react": "^18.0.12",
     "autoprefixer": "^10.4.0",
     "babel-jest": "^27.4.2",
     "eslint": "^8.4.0",
